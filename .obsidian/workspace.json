@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "4fbdc44e82bdb280",
+    "type": "split",
+    "children": [
+      {
+        "id": "06e863ba1f5197f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "554940119858d6c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ALL_MAIN_FOLDER/PROGRAMMING_MAIN_FOLDER/GIT/3. Коммит файлов репозитория.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Коммит файлов репозитория"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d3199439fad772af",
+    "type": "split",
+    "children": [
+      {
+        "id": "86b494d8ab1c0b6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "526377988e0f2c5b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "4051051ddce32b41",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "7f9e3fb80f28beea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 329.5
+  },
+  "right": {
+    "id": "4504a36cb54b23c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "cccdc156a3672e05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20adaa9a447c0245",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PYTHON_MAIN/Syntax/ОБЛАСТЬ_ВИДИМОСТИ/Local.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Local"
+            }
+          },
+          {
+            "id": "12e38cb499412f03",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PYTHON_MAIN/Syntax/ОБЛАСТЬ_ВИДИМОСТИ/Local.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Local"
+            }
+          },
+          {
+            "id": "e6100b710da66082",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "82c061d5286fc028",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PYTHON_MAIN/Syntax/ОБЛАСТЬ_ВИДИМОСТИ/Local.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Local"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Создать новую базу": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "554940119858d6c1",
+  "lastOpenFiles": [
+    "ALL_MAIN_FOLDER/PROGRAMMING_MAIN_FOLDER/PYTHON/OBJECT_ORIENTED_PROGRAMMING (OOP)/2. Наследование.md",
+    "ALL_MAIN_FOLDER/PROGRAMMING_MAIN_FOLDER/PYTHON/OBJECT_ORIENTED_PROGRAMMING (OOP)/3. Инкапсуляция.md",
+    "ALL_MAIN_FOLDER/GNU_LINUX/SYSTEM/CRON.md",
+    "ALL_MAIN_FOLDER/PROGRAMMING_MAIN_FOLDER/PYTHON/OBJECT_ORIENTED_PROGRAMMING (OOP)/1. Конструкторы и инициализация объектов.md",
+    "ALL_MAIN_FOLDER/MATTERMOST_CFG`S/CONFIGS/Конфиги и файлы.md",
+    "ALL_MAIN_FOLDER/GLOBAL-LOCAL_INTERNET/WEB_SERVER/PROXYING/Nginx/2. Настройка проксирования.md",
+    "ALL_MAIN_FOLDER/MATTERMOST_CFG`S/CLEAN_DELETE_OBJECTS/Скрипт очистки.md",
+    "ALL_MAIN_FOLDER/GLOBAL-LOCAL_INTERNET/WEB_SERVER/PROXYING/SSL_CERTIFICATE/Let's Encrypt.md",
+    "ALL_MAIN_FOLDER/GLOBAL-LOCAL_INTERNET/WEB_SERVER/PROXYING/SSL_CERTIFICATE/Генерация самоподписанного SSL сертификата.md",
+    "ALL_MAIN_FOLDER/GLOBAL-LOCAL_INTERNET/WEB_SERVER/PROXYING/Nginx/1. Начало работы.md",
+    "ALL_MAIN_FOLDER/GLOBAL-LOCAL_INTERNET/POSTGRESS_SQL/2. Основные пути и команды..md",
+    "ALL_MAIN_FOLDER/GLOBAL-LOCAL_INTERNET/POSTGRESS_SQL/1. Начало работы (развёртывание).md",
+    "ALL_MAIN_FOLDER/GLOBAL-LOCAL_INTERNET/BASE_SERVER/OPEN_SERVER/DMZ - zone DHCP - server.md",
+    "ALL_MAIN_FOLDER/GLOBAL-LOCAL_INTERNET/BASE_SERVER/OPEN_SERVER/NAT - forvarding.md",
+    "docs_obsidian_self/ALL_MAIN_FOLDER/MATTERMOST_CFG`S/CONFIGS/Конфиги и файлы.md",
+    "docs_obsidian_self/ALL_MAIN_FOLDER/GNU_LINUX/SYSTEM/CRON.md",
+    "docs_obsidian_self",
+    "PROGRAMMING_MAIN_FOLDER/GIT/3. Коммит файлов репозитория.md",
+    "PROGRAMMING_MAIN_FOLDER/PYTHON/PYTHON_LIBS/Selenium/Поиск объектов на сайте.md",
+    "PROGRAMMING_MAIN_FOLDER/PYTHON/PYTHON_LIBS/Selenium/Имитация действий пользователя.md",
+    "PROGRAMMING_MAIN_FOLDER/PYTHON/PYTHON_LIBS/Selenium/Вызов selenium.md",
+    "PROGRAMMING_MAIN_FOLDER/PYTHON/PYTHON_LIBS/Selenium/- official link -.md",
+    "PROGRAMMING_MAIN_FOLDER/PYTHON/PYTHON_LIBS/PyTest/- official link -.md",
+    "PROGRAMMING_MAIN_FOLDER/GIT/2. Создание репозитория.md",
+    "PROGRAMMING_MAIN_FOLDER/GIT/5. Работа с версиями - ветками.md",
+    "test.json",
+    "Текстовый документ.txt",
+    "PROGRAMMING_MAIN_FOLDER/GIT/1. Установка.md",
+    "PROGRAMMING_MAIN_FOLDER/PYTHON/PYTHON_LIBS/PyTest/Вызов pytest.md",
+    "PROGRAMMING_MAIN_FOLDER/PYTHON/SYNTAX/1. Замыкание (closure)/Pict/Pasted image 20250623152157.png",
+    "PROGRAMMING_MAIN_FOLDER/PYTHON/SYNTAX/1. Замыкание (closure)/Pict/Pasted image 20250623151324.png",
+    "PROGRAMMING_MAIN_FOLDER/PYTHON/SYNTAX/1. Замыкание (closure)/Pict/Pasted image 20250623150345.png",
+    "PROGRAMMING_MAIN_FOLDER/PYTHON/SYNTAX/2. Декораторы/Pict/Pasted image 20250623201358.png",
+    "PROGRAMMING_MAIN_FOLDER/PYTHON/PYTHON_LIBS/PyTest/Pict/Pasted image 20250623141503.png",
+    "PROGRAMMING_MAIN_FOLDER/PYTHON/PYTHON_LIBS/PyTest/Pict/Pasted image 20250623140858.png",
+    "PROGRAMMING_MAIN_FOLDER/PYTHON/SYNTAX/2. Декораторы/Pict/Pasted image 20250623200309.png",
+    "PROGRAMMING_MAIN_FOLDER/PYTHON/BASIC_SYNTAX/Область видимости/Pict/Pasted image 20250623145536.png",
+    "PROGRAMMING_MAIN_FOLDER/PYTHON/PYTHON_LIBS/PyTest/Pict/Pasted image 20250623141849.png",
+    "PROGRAMMING_MAIN_FOLDER/PYTHON/PYTHON_LIBS/Allure/Pict/Pasted image 20250624180918.png",
+    "PROGRAMMING_MAIN_FOLDER/PYTHON/SYNTAX/1. Замыкание (closure)/Pict",
+    "PROGRAMMING_MAIN_FOLDER/PYTHON/SYNTAX/2. Декораторы/Pict",
+    "PROGRAMMING_MAIN_FOLDER/PYTHON/PYTHON_LIBS/PyTest/Pict",
+    "PROGRAMMING_MAIN_FOLDER/PYTHON/PYTHON_LIBS/Allure/Pict",
+    "PROGRAMMING_MAIN_FOLDER/PYTHON/BASIC_SYNTAX/Область видимости/Pict",
+    "PROGRAMMING_MAIN_FOLDER/PYTHON/SYNTAX/1. Замыкание (closure)",
+    "PROGRAMMING_MAIN_FOLDER/PYTHON/SYNTAX/2. Декораторы"
+  ]
+}
